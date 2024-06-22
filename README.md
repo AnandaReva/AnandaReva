@@ -2,9 +2,7 @@
 Wellcome to my Github Page, I am **Reva Ananda**, a junior fullstack developer with a specialization in backend technology. I am currently pursuing a Bachelor's degree in Computer Science at the University of Pertamina.
 
 ## Projects
-Here are some of the software projects I have developed so far:
-
-Here are some of the software projects I have developed so far:
+Here are some of the software projects I have developed:
 
 | Nolan | Tratour | Green Ranger |
 |:-----:|:-------:|:------------:|
