@@ -14,6 +14,10 @@ You can see my full portfolio by clicking the link below:
 
 [![Portfolio](https://github.com/AnandaReva/AnandaReva/blob/main/assets/images/web_image.png)](https://revaananda.000webhostapp.com/)
 
+Or view it directly below:
+
+<iframe src="https://revaananda.000webhostapp.com/" width="100%" height="500px"></iframe>
+
 ## Let's Get in Touch
 
 Feel free to connect with me on social media:
