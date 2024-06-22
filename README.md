@@ -4,14 +4,18 @@ Wellcome to my Github Page, I am **Reva Ananda**, a junior fullstack developer w
 ## Projects
 Here are some of the software projects I have developed so far:
 
-### Nolan
-<img src="https://github.com/AnandaReva/AnandaReva/blob/main/assets/images/Nolan_logo.png" alt="Nolan Logo" width="100">
+<div style="display: flex; align-items: center; gap: 20px;">
 
-### Tratour
-<img src="https://github.com/AnandaReva/AnandaReva/blob/main/assets/images/Tratour_logo.png" alt="Tratour Logo" width="100">
+  ### Nolan
+  <img src="https://github.com/AnandaReva/AnandaReva/blob/main/assets/images/Nolan_logo.png" alt="Nolan Logo" width="100">
 
-### Green Ranger
-<img src="https://github.com/AnandaReva/AnandaReva/blob/main/assets/images/Green_Ranger_logo.png" alt="Green Ranger Logo" width="100">
+  ### Tratour
+  <img src="https://github.com/AnandaReva/AnandaReva/blob/main/assets/images/Tratour_logo.png" alt="Tratour Logo" width="100">
+
+  ### Green Ranger
+  <img src="https://github.com/AnandaReva/AnandaReva/blob/main/assets/images/Green_Ranger_logo.png" alt="Green Ranger Logo" width="100">
+
+</div>
 
 ## Portfolio
 
