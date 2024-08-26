@@ -12,7 +12,7 @@ Here are some of the software projects I have developed:
 
 You can see my full portfolio by clicking the link below:
 
-[![Portfolio](https://github.com/AnandaReva/AnandaReva/blob/main/assets/images/web_image.png)](https://revaananda.000webhostapp.com/)
+[![Portfolio](https://github.com/AnandaReva/AnandaReva/blob/main/assets/images/web_image.png)](https://james.kesug.com/)
 
 ## Let's Get in Touch
 
